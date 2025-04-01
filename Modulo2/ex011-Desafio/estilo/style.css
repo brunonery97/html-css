@@ -27,7 +27,7 @@
 /* Resetando margens e espaçamentos padrão de todos os elementos */
 * {
     margin: 0px;
-    padding: 0px;
+    padding: 0px; 
 }
 
 /* Definindo a cor de fundo do site e aplicando a fonte padrão */
